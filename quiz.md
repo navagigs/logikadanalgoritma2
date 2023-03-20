@@ -8,12 +8,5 @@
 ## 4. Apa itu Method pada OOP?
 ## 5. Apa itu Object pada OOP?
 ## 6. Perhatikan script berikut :
-class Segitiga:
-  def __init__(self, alas, tinggi):
-    self.alas = alas
-    self.tinggi = tinggi
-
-
-  def hitung_luas(self):
-    return 0.5 * self.alas * self.tinggi
+<img alt="Stars" src="https://drive.google.com/file/d/1FholxnLwy-4RhHNOIfqxe2lH87ZLpliB/view?usp=sharing"/>
 **bagaimana cara menjalankan program diatas**
